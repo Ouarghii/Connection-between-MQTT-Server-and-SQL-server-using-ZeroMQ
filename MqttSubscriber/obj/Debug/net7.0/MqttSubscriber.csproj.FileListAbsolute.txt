@@ -1,0 +1,17 @@
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MqttSubscriber.exe
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MqttSubscriber.deps.json
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MqttSubscriber.runtimeconfig.json
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MqttSubscriber.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MqttSubscriber.pdb
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\bin\Debug\net7.0\MQTTnet.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.csproj.AssemblyReference.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.AssemblyInfoInputs.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.AssemblyInfo.cs
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.csproj.CopyComplete
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\refint\MqttSubscriber.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.pdb
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\MqttSubscriber.genruntimeconfig.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\obj\Debug\net7.0\ref\MqttSubscriber.dll

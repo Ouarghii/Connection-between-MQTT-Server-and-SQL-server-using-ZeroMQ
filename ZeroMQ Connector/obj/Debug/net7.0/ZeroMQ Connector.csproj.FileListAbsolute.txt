@@ -1,0 +1,73 @@
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ZeroMQ Connector.exe
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ZeroMQ Connector.deps.json
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ZeroMQ Connector.runtimeconfig.json
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ZeroMQ Connector.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ZeroMQ Connector.pdb
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\AsyncIO.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\NaCl.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\NetMQ.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Private.ServiceModel.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.ServiceModel.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.csproj.AssemblyReference.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.AssemblyInfoInputs.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.AssemblyInfo.cs
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.csproj.CoreCompileInputs.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.csproj.CopyComplete
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\refint\ZeroMQ Connector.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.pdb
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ZeroMQ Connector.genruntimeconfig.cache
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\obj\Debug\net7.0\ref\ZeroMQ Connector.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\ZeroMQ Connector\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

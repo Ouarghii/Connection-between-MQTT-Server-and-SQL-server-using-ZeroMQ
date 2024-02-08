@@ -75,3 +75,4 @@ C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Newtonsoft.Json.dll

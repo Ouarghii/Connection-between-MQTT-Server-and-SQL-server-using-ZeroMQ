@@ -1,0 +1,7 @@
+﻿{
+	"MqttBroker": {
+		"Host": "localhost",
+		"Port": 1883
+	},
+	"ZeroMqPort": 5556
+}

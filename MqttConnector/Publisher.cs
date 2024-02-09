@@ -95,10 +95,10 @@ namespace MqttConnector
             using (var zeroMqPublisher = new PublisherSocket())
             {
                 zeroMqPublisher.Bind($"tcp://*:{config.ZeroMqPort}");
-
+                 
                 while (true)
                 {
-                    string queryResult = "Data from Blockyconnection";
+                    string queryResult = "Data from Blockycollection";
 
                     string messageForSQL = $"topic|{queryResult}|{DateTime.Now}";
 

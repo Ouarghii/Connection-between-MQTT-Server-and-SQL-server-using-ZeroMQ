@@ -1,0 +1,1724 @@
+[2024-02-12 12:59:01] Application started.
+[2024-02-12 12:59:01] Connected to MQTT broker.
+[2024-02-12 12:59:11] rasleeen|hello from mqtt connector|2024-02-12T12:59:11.945Z
+[2024-02-12 12:59:11] rasleeen|hello from mqtt connector|2024-02-12T12:59:11.947Z
+[2024-02-12 12:59:11] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.015Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.016Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.066Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.067Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.120Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.121Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.158Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.159Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.213Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.214Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.256Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.257Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.302Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.303Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.344Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.345Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.389Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.389Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.600Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.600Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.657Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.662Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.770Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.772Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.976Z
+[2024-02-12 12:59:12] rasleeen|hello from mqtt connector|2024-02-12T12:59:12.977Z
+[2024-02-12 12:59:12] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.251Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.252Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.273Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.275Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.379Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.380Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.396Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.398Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.504Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.504Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.533Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.533Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.537Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.538Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.683Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.684Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.915Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.916Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.919Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.920Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.921Z
+[2024-02-12 12:59:13] rasleeen|hello from mqtt connector|2024-02-12T12:59:13.922Z
+[2024-02-12 12:59:13] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.030Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.031Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.033Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.034Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.037Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.038Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.288Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.289Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.297Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.298Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.301Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.302Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.408Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.409Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.416Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.417Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.419Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.419Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.512Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.513Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.529Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.530Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.531Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.532Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.576Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.576Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.595Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.596Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.608Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.609Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.641Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.641Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.662Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.662Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.670Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.671Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.701Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.702Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.720Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.720Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.732Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.732Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.758Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.759Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.775Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.775Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.782Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.782Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.810Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.811Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.830Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.831Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.841Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.842Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.861Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.862Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.928Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.928Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.932Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.933Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.935Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.935Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.984Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.984Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.986Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.988Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.989Z
+[2024-02-12 12:59:14] rasleeen|hello from mqtt connector|2024-02-12T12:59:14.990Z
+[2024-02-12 12:59:14] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.038Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.039Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.042Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.043Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.045Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.046Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.088Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.088Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.099Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.100Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.102Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.102Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.142Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.143Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.148Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.149Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.151Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.152Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.195Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.196Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.206Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.207Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.210Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.211Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.250Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.252Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.255Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.256Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.267Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.268Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.304Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.306Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.321Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.322Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.324Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.324Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.367Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.367Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.377Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.378Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.382Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.383Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.432Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.433Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.436Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.437Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.439Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.440Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.505Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.506Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.510Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.510Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.511Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.512Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.567Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.568Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.582Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.583Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.585Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.586Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.619Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.620Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.630Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.631Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.641Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.642Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.666Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.666Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.680Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.682Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.691Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.692Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.747Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.748Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.753Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.755Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.757Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.759Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.810Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.811Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.813Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.815Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.816Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.817Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.872Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.873Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.876Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.877Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.878Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.878Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.925Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.926Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.933Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.933Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.935Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.935Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.973Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.974Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.981Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.982Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.989Z
+[2024-02-12 12:59:15] rasleeen|hello from mqtt connector|2024-02-12T12:59:15.990Z
+[2024-02-12 12:59:15] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.023Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.024Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.032Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.032Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.048Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.050Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.079Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.080Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.090Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.090Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.117Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.117Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.132Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.133Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.146Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.147Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.167Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.168Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.182Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.183Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.191Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.192Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.212Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.213Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.234Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.236Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.242Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.244Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.259Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.259Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.285Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.286Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.291Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.292Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.318Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.319Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.336Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.337Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.344Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.345Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.375Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.376Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.396Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.396Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.409Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.410Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.438Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.439Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.462Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.463Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.466Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.467Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.510Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.511Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.538Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.539Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.542Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.543Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.611Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.612Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.617Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.618Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.622Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.622Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.661Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.662Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.665Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.665Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.681Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.682Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.716Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.718Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.725Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.726Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.751Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.752Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.772Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.773Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.775Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.775Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.801Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.802Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.818Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.819Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.823Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.823Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.848Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.849Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.865Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.866Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.870Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.871Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.898Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.898Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.912Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.913Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.916Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.917Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.948Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.949Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.956Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.957Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.966Z
+[2024-02-12 12:59:16] rasleeen|hello from mqtt connector|2024-02-12T12:59:16.967Z
+[2024-02-12 12:59:16] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.005Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.006Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.009Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.010Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.014Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.015Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.064Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.064Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.066Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.067Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.085Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.086Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.118Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.119Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.127Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.129Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.138Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.140Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.164Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.167Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.396Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.397Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.421Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.421Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.437Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.439Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.444Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.444Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.469Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.470Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.491Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.492Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.493Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.494Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.517Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.518Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.536Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.537Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.539Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.540Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.571Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.572Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.576Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.577Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.588Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.589Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.637Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.637Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.640Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.641Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.642Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.643Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.685Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.685Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.688Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.689Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.690Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.690Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.744Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.746Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.749Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.750Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.751Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.752Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.791Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.792Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.795Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.796Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.797Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.798Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.844Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.845Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.852Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.852Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.854Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.855Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.897Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.897Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.899Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.900Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.902Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.903Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.942Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.943Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.952Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.953Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.955Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.956Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.991Z
+[2024-02-12 12:59:17] rasleeen|hello from mqtt connector|2024-02-12T12:59:17.992Z
+[2024-02-12 12:59:17] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.004Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.006Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.008Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.009Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.042Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.042Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.051Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.052Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.053Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.054Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.091Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.092Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.099Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.099Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.101Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.102Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.138Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.138Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.149Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.150Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.152Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.153Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.187Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.188Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.198Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.199Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.202Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.203Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.238Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.239Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.249Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.251Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.261Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.262Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.288Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.289Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.306Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.307Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.308Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.309Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.336Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.337Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.355Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.356Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.363Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.363Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.387Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.387Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.405Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.405Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.407Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.408Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.434Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.435Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.459Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.460Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.465Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.466Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.485Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.486Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.505Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.505Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.511Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.513Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.532Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.533Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.557Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.558Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.571Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.572Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.587Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.589Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.600Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.601Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.627Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.628Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.630Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.631Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.649Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.650Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.671Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.672Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.679Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.681Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.689Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.690Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.718Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.718Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.731Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.732Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.740Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.741Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.770Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.771Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.776Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.777Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.798Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.798Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.823Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.824Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.825Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.826Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.911Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.912Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.914Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.915Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.917Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.920Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.962Z
+[2024-02-12 12:59:18] rasleeen|hello from mqtt connector|2024-02-12T12:59:18.962Z
+[2024-02-12 12:59:18] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.219Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.219Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.253Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.254Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.260Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.261Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.297Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.298Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.303Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.304Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.308Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.309Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.337Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.338Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.349Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.350Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.352Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.353Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.378Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.379Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.395Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.396Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.400Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.400Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.421Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.422Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.434Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.435Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.446Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.446Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.463Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.464Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.473Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.475Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.483Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.484Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.505Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.505Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.518Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.520Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.534Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.535Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.563Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.564Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.603Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.604Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.614Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.615Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.619Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.619Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.643Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.644Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.662Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.662Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.664Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.665Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.683Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.684Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.705Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.705Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.714Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.715Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.720Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.720Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.760Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.761Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.769Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.773Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.781Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.784Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.815Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.815Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.821Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.822Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.830Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.830Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.859Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.860Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.864Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.865Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.870Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.872Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.920Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.921Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.971Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.972Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.975Z
+[2024-02-12 12:59:19] rasleeen|hello from mqtt connector|2024-02-12T12:59:19.976Z
+[2024-02-12 12:59:19] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.045Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.046Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.058Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.059Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.078Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.079Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.094Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.095Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.135Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.136Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.145Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.149Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.153Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.155Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.221Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.223Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.233Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.235Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.240Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.242Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.298Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.299Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.309Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.309Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.312Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.315Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.341Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.342Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.353Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.355Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.363Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.364Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.396Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.397Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.402Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.403Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.432Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.432Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.444Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.445Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.467Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.468Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.481Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.482Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.490Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.491Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.507Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.508Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.552Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.553Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.556Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.556Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.558Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.559Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.606Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.608Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.622Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.623Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.628Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.630Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.660Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.662Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.677Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.679Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.687Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.689Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.712Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.715Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.728Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.730Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.741Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.745Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.765Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.766Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.786Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.787Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.805Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.806Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.817Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.818Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.860Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.861Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.869Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.870Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.906Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.907Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.916Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.917Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.925Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.926Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.959Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.960Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.963Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.964Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.971Z
+[2024-02-12 12:59:20] rasleeen|hello from mqtt connector|2024-02-12T12:59:20.973Z
+[2024-02-12 12:59:20] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.004Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.005Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.013Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.014Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.032Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.033Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.050Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.051Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.068Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.069Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.092Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.093Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.096Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.099Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.140Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.141Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.152Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.152Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.154Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.157Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.195Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.197Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.207Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.216Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.232Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.244Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.264Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.265Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.290Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.291Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.311Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.312Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.315Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.316Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.357Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.358Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.367Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.368Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.369Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.370Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.405Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.406Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.409Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.410Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.419Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.420Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.452Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.453Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.456Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.458Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.469Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.470Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.494Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.495Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.515Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.515Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.520Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.521Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.544Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.545Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.611Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.612Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.614Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.615Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.619Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.620Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.664Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.665Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.668Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.669Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.670Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.671Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.712Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.712Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.715Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.716Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.717Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.718Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.761Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.762Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.765Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.766Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.768Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.768Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.808Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.808Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.819Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.820Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.830Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.831Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.851Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.852Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.866Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.867Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.879Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.880Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.901Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.903Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.916Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.918Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.931Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.933Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.950Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.951Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.956Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.957Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.977Z
+[2024-02-12 12:59:21] rasleeen|hello from mqtt connector|2024-02-12T12:59:21.978Z
+[2024-02-12 12:59:21] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.000Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.000Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.005Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.006Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.027Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.028Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.045Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.046Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.054Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.055Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.098Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.099Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.102Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.103Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.105Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.106Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.152Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.153Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.156Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.157Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.158Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.160Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.194Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.195Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.202Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.202Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.207Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.208Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.242Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.243Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.248Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.249Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.253Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.253Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.282Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.282Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.305Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.306Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.308Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.308Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.330Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.333Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.356Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.358Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.360Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.361Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.381Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.382Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.404Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.405Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.407Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.409Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.429Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.430Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.449Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.450Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.462Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.464Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.480Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.481Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.497Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.498Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.508Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.510Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.528Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.528Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.547Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.547Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.554Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.555Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.585Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.586Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.589Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.590Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.596Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.597Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.631Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.632Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.637Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.638Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.647Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.648Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.677Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.677Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.688Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.689Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.701Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.702Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.734Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.734Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.743Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.743Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.751Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.753Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.802Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.803Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.807Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.807Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.809Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.809Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.841Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.842Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.859Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.860Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.863Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.864Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.887Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.888Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.903Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.903Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.921Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.922Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.941Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.942Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.958Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.959Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.975Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.976Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.982Z
+[2024-02-12 12:59:22] rasleeen|hello from mqtt connector|2024-02-12T12:59:22.984Z
+[2024-02-12 12:59:22] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.002Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.002Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.023Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.023Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.029Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.030Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.039Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.040Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.072Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.073Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.085Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.086Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.087Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.088Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.133Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.135Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.137Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.138Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.140Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.140Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.177Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.178Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.180Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.182Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.183Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.184Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.218Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.219Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.226Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.227Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.233Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.234Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.266Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.267Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.277Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.279Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.283Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.284Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.327Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.328Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.332Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.333Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.336Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.338Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.374Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.375Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.386Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.386Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.391Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.392Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.447Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.447Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.450Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.451Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.452Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.453Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.494Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.495Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.497Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.498Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.500Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.501Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.542Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.542Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.545Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.546Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.559Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.560Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.619Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.620Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.622Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.623Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.627Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.627Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.707Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.708Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.716Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.717Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.720Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.721Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.761Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.762Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.781Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.782Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.784Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.785Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.821Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.822Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.842Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.842Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.844Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.845Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.876Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.877Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.899Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.900Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.909Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.911Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.918Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.920Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.954Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.955Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.959Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.961Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.971Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.972Z
+[2024-02-12 12:59:23] Message published: hello from mqtt connector
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.996Z
+[2024-02-12 12:59:23] rasleeen|hello from mqtt connector|2024-02-12T12:59:23.998Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.007Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.008Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.016Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.017Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.046Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.047Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.058Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.059Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.078Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.078Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.116Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.117Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.121Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.121Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.125Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.125Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.182Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.183Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.187Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.189Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.192Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.193Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.246Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.247Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.249Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.251Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.260Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.262Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.495Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.496Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.514Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.515Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.518Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.519Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.560Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.561Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.570Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.571Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.588Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.588Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.605Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.606Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.649Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.650Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.653Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.654Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.663Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.664Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.717Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.717Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.721Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.722Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.748Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.749Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.777Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.777Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.779Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.780Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.806Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.806Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.883Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.884Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.890Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.891Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.893Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.895Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.933Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.933Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.944Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.945Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.951Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.952Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.982Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.982Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.995Z
+[2024-02-12 12:59:24] rasleeen|hello from mqtt connector|2024-02-12T12:59:24.996Z
+[2024-02-12 12:59:24] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.051Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.051Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.053Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.053Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.107Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.108Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.111Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.112Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.114Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.114Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.162Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.163Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.168Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.169Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.173Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.180Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.213Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.215Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.233Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.234Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.241Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.242Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.286Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.287Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.301Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.302Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.309Z
+[2024-02-12 12:59:25] rasleeen|hello from mqtt connector|2024-02-12T12:59:25.310Z
+[2024-02-12 12:59:25] Message published: hello from mqtt connector

@@ -11,8 +11,8 @@ pipeline {
         stage('Build MqttConnector') {
             steps {
                 dir('MqttConnector') {
-                    sh 'dotnet restore'
-                    sh 'dotnet build'
+                    bat 'dotnet restore'
+                    bat 'dotnet build'
                 }
             }
         }
@@ -21,7 +21,7 @@ pipeline {
             steps {
                 dir('tests/MqttConnectorTests') {
                     // Run unit tests for MqttConnector
-                    sh 'dotnet test'
+                    bat 'dotnet test'
                 }
             }
         }
@@ -29,8 +29,8 @@ pipeline {
         stage('Build SQLServerConnector') {
             steps {
                 dir('SQLServerConnector') {
-                    sh 'dotnet restore'
-                    sh 'dotnet build'
+                    bat 'dotnet restore'
+                    bat 'dotnet build'
                 }
             }
         }
@@ -39,7 +39,7 @@ pipeline {
             steps {
                 dir('tests/SQLServerConnectorTests') {
                     // Run unit tests for SQLServerConnector
-                    sh 'dotnet test'
+                    bat 'dotnet test'
                 }
             }
         }
@@ -78,3 +78,4 @@ pipeline {
         }
     }
 }
+

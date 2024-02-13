@@ -234,8 +234,21 @@ namespace SQLServerConnector
 {
     class Program
     {
+        private static ILogger<Program> _logger;
+
         static async Task Main(string[] args)
         {
+            // Setup logging
+            using var loggerFactory = LoggerFactory.Create(builder =>
+            {
+                builder.AddConsole();
+                builder.AddFile(@"C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\SQLServerConnector\log_file.txt"); // Specify the path to your log file here
+
+                builder.SetMinimumLevel(LogLevel.Information);
+            });
+
+            _logger = loggerFactory.CreateLogger<Program>();
+
             string configFilePath = @"C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\SQLServerConnector\config.json";
             Configuration config = LoadConfiguration(configFilePath);
 
@@ -256,11 +269,13 @@ namespace SQLServerConnector
                 {
                     connection.Open();
                     Console.WriteLine("Connected to SQL Server successfully.");
+                    _logger.LogInformation("Connected to SQL Server successfully.");
                 }
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error connecting to SQL Server: " + ex.Message);
+                _logger.LogError($"Error connecting to SQL Server: {ex.Message}");
             }
         }
 
@@ -272,6 +287,7 @@ namespace SQLServerConnector
                 subscriber.Subscribe("");
 
                 Console.WriteLine("ZeroMQ subscriber started and connected.");
+                _logger.LogInformation("ZeroMQ subscriber started and connected.");
 
                 while (true)
                 {
@@ -288,11 +304,13 @@ namespace SQLServerConnector
                         else
                         {
                             Console.WriteLine("Invalid timestamp format.");
+                            _logger.LogError("Invalid timestamp format.");
                         }
                     }
                     else
                     {
                         Console.WriteLine("Invalid message format.");
+                        _logger.LogError("Invalid message format.");
                     }
                 }
             }
@@ -313,6 +331,7 @@ namespace SQLServerConnector
             catch (Exception ex)
             {
                 Console.WriteLine($"Error loading configuration: {ex.Message}");
+                _logger.LogError($"Error loading configuration: {ex.Message}");
                 throw;
             }
         }
@@ -330,14 +349,16 @@ namespace SQLServerConnector
                         command.Parameters.AddWithValue("@topic", topic);
                         command.Parameters.AddWithValue("@payload", payload);
                         command.Parameters.AddWithValue("@receivedTime", receivedTime);
-                        command.ExecuteNonQuery();
+                        int inserted = command.ExecuteNonQuery();
                         Console.WriteLine("Message inserted into SQL Server database.");
+                        _logger.LogInformation("Message inserted into SQL Server database.");
                     }
                 }
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error inserting message into SQL Server database: " + ex.Message);
+                _logger.LogError($"Error inserting message into SQL Server database: {ex.Message}");
             }
         }
     }
@@ -361,6 +382,7 @@ namespace SQLServerConnector
         public string ServerAddress { get; set; }
     }
 }
+
 
 
 

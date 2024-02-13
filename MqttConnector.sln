@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MqttSubscriber", "MqttSubsc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLServerConnector", "SQLServerConnector\SQLServerConnector.csproj", "{168D7E7C-1D78-4216-AD96-B2E0F9F98614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQ Connector", "ZeroMQ Connector\ZeroMQ Connector.csproj", "{46BE2E16-D020-4163-ACC9-C39519E12952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZeroMQ Connector", "ZeroMQ Connector\ZeroMQ Connector.csproj", "{46BE2E16-D020-4163-ACC9-C39519E12952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

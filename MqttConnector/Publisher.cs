@@ -255,7 +255,7 @@ namespace MqttConnector
                 {
                     zeroMqPublisher.Bind($"tcp://*:{config.ZeroMqPort}");
 
-                    await SubscribeToTopics(mqttClient, "rasleeen");
+                    await SubscribeToTopics(mqttClient, "testMessage");
 
                     mqttClient.UseApplicationMessageReceivedHandler(e =>
                     {

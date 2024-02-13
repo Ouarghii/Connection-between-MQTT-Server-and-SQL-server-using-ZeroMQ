@@ -66,6 +66,7 @@ pipeline {
     post {
         always {
             // Clean up resources if needed
+            echo 'Always block executed'
         }
         success {
             // Send notification on success (e.g., email, Slack)

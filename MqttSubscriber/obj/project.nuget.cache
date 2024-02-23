@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jQzK3Y2d8u8nL+gZ5eLmtCwr2/AS4AXRk+FG7H1AyBd1oE8QEO6lcg9E13mgW/XOGcLnAWAd8f64XsvOKCYUMA==",
+  "dgSpecHash": "U0AQr6iY8U7ZYnakYgINh8qkv3hgQ03kChhqBV49dQ+wvVrMCGby08/92ckPLQZmolNvOKJSCAs4HnbeMhNUyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\MqttSubscriber.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,11 @@
     "C:\\Users\\Raslen\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Raslen\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Raslen\\.nuget\\packages\\system.threading.threadpool\\4.3.0\\system.threading.threadpool.4.3.0.nupkg.sha512",
-    "C:\\Users\\Raslen\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Raslen\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Raslen\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Raslen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Raslen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Raslen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

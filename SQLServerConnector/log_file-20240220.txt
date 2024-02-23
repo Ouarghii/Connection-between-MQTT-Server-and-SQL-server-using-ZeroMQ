@@ -1,0 +1,6 @@
+2024-02-20T09:59:31.8012369+01:00  [ERR] Error connecting to SQL Server: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) (943d4efe)
+2024-02-20T09:59:31.9633426+01:00  [INF] ZeroMQ subscriber started and connected. (fd8d03e0)
+2024-02-20T09:59:47.9546575+01:00  [ERR] Error connecting to SQL Server: Login failed for user ''. (80728e7e)
+2024-02-20T09:59:47.9997462+01:00  [INF] ZeroMQ subscriber started and connected. (fd8d03e0)
+2024-02-20T10:00:10.2988235+01:00  [INF] Connected to SQL Server successfully. (c0bf4a48)
+2024-02-20T10:00:10.3348798+01:00  [INF] ZeroMQ subscriber started and connected. (fd8d03e0)

@@ -1,13 +1,22 @@
 ﻿{
   "SqlServer": {
-    "DataSource": "LAPTOP-TQUNE01B\\SQLEXPRESS",
+    "DataSource": "172.30.0.4,1433",
+    "User": "sa",
+    "Password": "YourStrong!Password",
     "InitialCatalog": "storage",
-    "IntegratedSecurity": true,
+    "IntegratedSecurity": false,
     "TrustServerCertificate": true
   },
   "ZeroMQ": {
-    "ServerAddress": "tcp://localhost:5556"
+    "ServerAddress": "tcp://172.30.0.2:5556"
   }
 }
+
+
+
+
+
+
+
 
 

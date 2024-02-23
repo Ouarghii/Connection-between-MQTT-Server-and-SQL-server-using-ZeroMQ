@@ -1,0 +1,2 @@
+2024-02-13T14:34:40.0580476+01:00  [INF] Connected to SQL Server successfully. (c0bf4a48)
+2024-02-13T14:34:40.2776044+01:00  [INF] ZeroMQ subscriber started and connected. (fd8d03e0)

@@ -1,0 +1,2 @@
+2024-02-13T14:34:40.0486154+01:00  [INF] Connected to MQTT broker. (a2dc0862)
+2024-02-13T14:34:40.2338160+01:00  [INF] Subscribed to topic: testMessage (9c82c729)

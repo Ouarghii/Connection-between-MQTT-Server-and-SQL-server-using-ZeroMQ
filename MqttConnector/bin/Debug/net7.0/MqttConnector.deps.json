@@ -12,6 +12,8 @@
           "Microsoft.Data.SqlClient": "4.0.0",
           "Microsoft.Extensions.Logging": "8.0.0",
           "Microsoft.Extensions.Logging.Console": "5.0.0",
+          "Microsoft.NET.Build.Containers": "8.0.200",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.18.1",
           "NetMQ": "4.0.1.13",
           "Newtonsoft.Json": "13.0.3",
           "Serilog.Extensions.Logging.File": "3.0.0"
@@ -366,8 +368,10 @@
           }
         }
       },
+      "Microsoft.NET.Build.Containers/8.0.200": {},
       "Microsoft.NETCore.Platforms/5.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.18.1": {},
       "Microsoft.Win32.Primitives/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "5.0.0",
@@ -1468,6 +1472,13 @@
       "path": "microsoft.identitymodel.tokens/6.8.0",
       "hashPath": "microsoft.identitymodel.tokens.6.8.0.nupkg.sha512"
     },
+    "Microsoft.NET.Build.Containers/8.0.200": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vw9Xi9LA0Ww84GWzuPDG0/UMKYy/0+wjI3UET1fx0wlvD5izD9M7acrv9SUWetVajUGyV8M8i5ckqmt6g3sQbg==",
+      "path": "microsoft.net.build.containers/8.0.200",
+      "hashPath": "microsoft.net.build.containers.8.0.200.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1481,6 +1492,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.18.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RtNQEQQ/bgaxzrsZEkPB+/DFaUgNiq8GtZz/R4lt+mKXPcEvEuawlbl0PB1s7ND9kvkUVZtMphPxE9Ma1VGiFg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.18.1",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

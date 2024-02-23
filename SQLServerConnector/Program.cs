@@ -249,7 +249,7 @@ namespace SQLServerConnector
 
             _logger = loggerFactory.CreateLogger<Program>();
 
-            string configFilePath = @"C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\SQLServerConnector\config.json";
+            string configFilePath = "config.json";
             Configuration config = LoadConfiguration(configFilePath);
 
             string connectionString = GetConnectionString(config.SqlServer);
@@ -316,10 +316,17 @@ namespace SQLServerConnector
             }
         }
 
+        // static string GetConnectionString(SqlServerConfig sqlConfig)
+        // {
+        //     return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};Integrated Security={sqlConfig.IntegratedSecurity};TrustServerCertificate={sqlConfig.TrustServerCertificate}";
+        // }
         static string GetConnectionString(SqlServerConfig sqlConfig)
-        {
-            return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};Integrated Security={sqlConfig.IntegratedSecurity};TrustServerCertificate={sqlConfig.TrustServerCertificate}";
-        }
+{
+    string authentication = sqlConfig.IntegratedSecurity ? "Integrated Security=true;" : $"User Id={sqlConfig.User};Password={sqlConfig.Password};";
+    string trustServerCertificate = sqlConfig.TrustServerCertificate ? "TrustServerCertificate=true;" : "";
+
+    return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};{authentication}{trustServerCertificate}";
+}
 
         static Configuration LoadConfiguration(string configFile)
         {
@@ -370,12 +377,15 @@ namespace SQLServerConnector
     }
 
     class SqlServerConfig
-    {
-        public string DataSource { get; set; }
-        public string InitialCatalog { get; set; }
-        public bool IntegratedSecurity { get; set; }
-        public bool TrustServerCertificate { get; set; }
-    }
+{
+    public string DataSource { get; set; }
+    public string InitialCatalog { get; set; }
+    public string User { get; set; } // Add this property
+    public string Password { get; set; } // Add this property
+    public bool IntegratedSecurity { get; set; }
+    public bool TrustServerCertificate { get; set; }
+}
+
 
     class ZeroMQConfig
     {

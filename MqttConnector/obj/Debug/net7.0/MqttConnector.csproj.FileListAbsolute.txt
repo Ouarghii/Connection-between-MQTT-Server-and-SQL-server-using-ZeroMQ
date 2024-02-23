@@ -89,3 +89,4 @@ C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Serilog.Sinks.Async.dll
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Serilog.Sinks.File.dll
 C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\mqttconnector\obj\Debug\net7.0\MqttConnector.sourcelink.json

@@ -225,7 +225,7 @@ namespace MqttConnector
 
             _logger = loggerFactory.CreateLogger<Program>();
 
-            string configFilePath = @"C:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttConnector\config.json";
+            string configFilePath = "config.json";
 
             var config = LoadConfiguration(configFilePath);
 

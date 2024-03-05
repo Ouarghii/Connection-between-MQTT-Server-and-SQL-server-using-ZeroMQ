@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\SQLServerConnector\\SQLServerConnector.csproj": {}
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\SQLServerConnector\\SQLServerConnector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\SQLServerConnector\\SQLServerConnector.csproj": {
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\SQLServerConnector\\SQLServerConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\SQLServerConnector\\SQLServerConnector.csproj",
+        "projectUniqueName": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\SQLServerConnector\\SQLServerConnector.csproj",
         "projectName": "SQLServerConnector",
-        "projectPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\SQLServerConnector\\SQLServerConnector.csproj",
+        "projectPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\SQLServerConnector\\SQLServerConnector.csproj",
         "packagesPath": "C:\\Users\\Raslen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\SQLServerConnector\\obj\\",
+        "outputPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\SQLServerConnector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raslen\\AppData\\Roaming\\NuGet\\NuGet.Config",

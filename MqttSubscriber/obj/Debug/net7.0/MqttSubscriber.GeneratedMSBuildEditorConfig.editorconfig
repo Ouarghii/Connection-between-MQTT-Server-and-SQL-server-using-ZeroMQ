@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MqttSubscriber
-build_property.ProjectDir = c:\Users\Raslen\OneDrive\Bureau\devops\dev\MqttConnector\MqttSubscriber\
+build_property.ProjectDir = C:\Users\Raslen\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\MqttSubscriber\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

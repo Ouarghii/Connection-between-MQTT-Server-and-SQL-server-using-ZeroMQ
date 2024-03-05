@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\MqttSubscriber.csproj": {}
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\MqttSubscriber\\MqttSubscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\MqttSubscriber.csproj": {
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\MqttSubscriber\\MqttSubscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\MqttSubscriber.csproj",
+        "projectUniqueName": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\MqttSubscriber\\MqttSubscriber.csproj",
         "projectName": "MqttSubscriber",
-        "projectPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\MqttSubscriber.csproj",
+        "projectPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\MqttSubscriber\\MqttSubscriber.csproj",
         "packagesPath": "C:\\Users\\Raslen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\MqttSubscriber\\obj\\",
+        "outputPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\MqttSubscriber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raslen\\AppData\\Roaming\\NuGet\\NuGet.Config",

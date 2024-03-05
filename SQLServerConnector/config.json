@@ -1,6 +1,6 @@
 ﻿{
   "SqlServer": {
-    "DataSource": "172.30.0.4,1433",
+    "DataSource": "172.30.0.3,1433",
     "User": "sa",
     "Password": "YourStrong!Password",
     "InitialCatalog": "storage",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\ZeroMQ Connector\\ZeroMQ Connector.csproj": {}
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\ZeroMQ Connector\\ZeroMQ Connector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\ZeroMQ Connector\\ZeroMQ Connector.csproj": {
+    "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\ZeroMQ Connector\\ZeroMQ Connector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\ZeroMQ Connector\\ZeroMQ Connector.csproj",
+        "projectUniqueName": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\ZeroMQ Connector\\ZeroMQ Connector.csproj",
         "projectName": "ZeroMQ Connector",
-        "projectPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\ZeroMQ Connector\\ZeroMQ Connector.csproj",
+        "projectPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\ZeroMQ Connector\\ZeroMQ Connector.csproj",
         "packagesPath": "C:\\Users\\Raslen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raslen\\OneDrive\\Bureau\\devops\\dev\\MqttConnector\\ZeroMQ Connector\\obj\\",
+        "outputPath": "C:\\Users\\Raslen\\Connection-between-MQTT-Server-and-SQL-server-using-ZeroMQ\\ZeroMQ Connector\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raslen\\AppData\\Roaming\\NuGet\\NuGet.Config",

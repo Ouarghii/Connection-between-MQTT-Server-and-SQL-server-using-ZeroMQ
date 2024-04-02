@@ -220,7 +220,6 @@ namespace SQLServerConnector
     }
 
 }*/
-
 using System;
 using System.IO;
 using System.Text.Json;
@@ -249,14 +248,15 @@ namespace SQLServerConnector
 
             _logger = loggerFactory.CreateLogger<Program>();
 
-            string configFilePath = "config.json";
+            string configFilePath = "/sioth/sioth/config/config.json";
+            
             Configuration config = LoadConfiguration(configFilePath);
-
+            
             string connectionString = GetConnectionString(config.SqlServer);
-
+            Console.WriteLine($"Using Connection String: {connectionString}");
             TestSqlConnection(connectionString);
-
-            StartZeroMQSubscriber(connectionString, config.ZeroMQ);
+            Console.WriteLine($"=========> : {config.ZeroMQ.ServerAddress}");
+            StartZeroMQSubscriber(connectionString, config.ZeroMQ.ServerAddress); // Corrected line
 
             Console.ReadLine();
         }
@@ -279,11 +279,11 @@ namespace SQLServerConnector
             }
         }
 
-        static void StartZeroMQSubscriber(string connectionString, ZeroMQConfig zeroMQConfig)
+        static void StartZeroMQSubscriber(string connectionString, string serverAddress)
         {
             using (var subscriber = new SubscriberSocket())
             {
-                subscriber.Connect(zeroMQConfig.ServerAddress);
+                subscriber.Connect(serverAddress);
                 subscriber.Subscribe("");
 
                 Console.WriteLine("ZeroMQ subscriber started and connected.");
@@ -316,17 +316,13 @@ namespace SQLServerConnector
             }
         }
 
-        // static string GetConnectionString(SqlServerConfig sqlConfig)
-        // {
-        //     return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};Integrated Security={sqlConfig.IntegratedSecurity};TrustServerCertificate={sqlConfig.TrustServerCertificate}";
-        // }
         static string GetConnectionString(SqlServerConfig sqlConfig)
-{
-    string authentication = sqlConfig.IntegratedSecurity ? "Integrated Security=true;" : $"User Id={sqlConfig.User};Password={sqlConfig.Password};";
-    string trustServerCertificate = sqlConfig.TrustServerCertificate ? "TrustServerCertificate=true;" : "";
+        {
+            string authentication = sqlConfig.IntegratedSecurity ? "Integrated Security=true;" : $"User Id={sqlConfig.User};Password={sqlConfig.Password};";
+            string trustServerCertificate = sqlConfig.TrustServerCertificate ? "TrustServerCertificate=true;" : "";
 
-    return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};{authentication}{trustServerCertificate}";
-}
+            return $"Data Source={sqlConfig.DataSource};Initial Catalog={sqlConfig.InitialCatalog};{authentication}{trustServerCertificate}";
+        }
 
         static Configuration LoadConfiguration(string configFile)
         {
@@ -377,24 +373,17 @@ namespace SQLServerConnector
     }
 
     class SqlServerConfig
-{
-    public string DataSource { get; set; }
-    public string InitialCatalog { get; set; }
-    public string User { get; set; } // Add this property
-    public string Password { get; set; } // Add this property
-    public bool IntegratedSecurity { get; set; }
-    public bool TrustServerCertificate { get; set; }
-}
-
+    {
+        public string DataSource { get; set; }
+        public string InitialCatalog { get; set; }
+        public string User { get; set; } // Add this property
+        public string Password { get; set; } // Add this property
+        public bool IntegratedSecurity { get; set; }
+        public bool TrustServerCertificate { get; set; }
+    }
 
     class ZeroMQConfig
     {
         public string ServerAddress { get; set; }
     }
 }
-
-
-
-
-
-

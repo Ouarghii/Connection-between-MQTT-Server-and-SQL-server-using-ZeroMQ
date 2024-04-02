@@ -225,10 +225,12 @@ namespace MqttConnector
 
             _logger = loggerFactory.CreateLogger<Program>();
 
-            string configFilePath = "config.json";
+            string configFilePath = "/sioth/sioth/config1/config.json";
 
             var config = LoadConfiguration(configFilePath);
-
+            // Print the content of the config.json file
+            Console.WriteLine("Configuration loaded from config.json:");
+            Console.WriteLine(JsonSerializer.Serialize(config, new JsonSerializerOptions { WriteIndented = true }));
             var factory = new MqttFactory();
             var mqttClient = factory.CreateMqttClient();
             var options = new MqttClientOptionsBuilder()

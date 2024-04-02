@@ -1,0 +1,13 @@
+{
+    "SqlServer": {
+        "DataSource": "10.0.1.6,1433",
+        "InitialCatalog": "storage",
+        "User": "sa",
+        "Password": "YourStrong!Password",
+        "IntegratedSecurity": false,
+        "TrustServerCertificate": true
+    },
+    "ZeroMQ": {
+        "ServerAddress": "tcp://10.0.1.4:5556"
+    }
+}

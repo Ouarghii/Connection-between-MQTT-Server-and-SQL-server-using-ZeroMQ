@@ -1,14 +1,14 @@
 ﻿{
   "SqlServer": {
-    "DataSource": "172.30.0.3,1433",
-    "User": "sa",
-    "Password": "YourStrong!Password",
-    "InitialCatalog": "storage",
-    "IntegratedSecurity": false,
-    "TrustServerCertificate": true
+      "DataSource": "10.0.0.4,1433",
+      "InitialCatalog": "storage",
+      "User": "sa",
+      "Password": "YourStrong!Password",
+      "IntegratedSecurity": false,
+      "TrustServerCertificate": true
   },
   "ZeroMQ": {
-    "ServerAddress": "tcp://172.30.0.2:5556"
+      "ServerAddress": "tcp://10.0.0.5:5556"
   }
 }
 
